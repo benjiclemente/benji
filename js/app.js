@@ -56,7 +56,7 @@ finalMsg= [
 		"Ahora vayamos a lo práctico. Si has llegado hasta aquí supongo que es porque quieres saber algo más sobre mí.  "+pA+"A ver si he acertado"+pB+"."
 		,
 		"BUSCAS INFORMACIÓN SOBRE MIS PRINCIPALES SOCIOS<br>"+
-		"A lo largo de esta carrera he tenido el placer de formar parte de una mini-agencia a la que decidimos llamar BrainTime. formada por Adrián Arjona, Alejandro Gomis y Celia Pérez, además de mí.<br>"+
+		"A lo largo de esta carrera he tenido el placer de formar parte de una mini-agencia a la que decidimos llamar BrainTime. formada por Adrián Arjona, Marcos Flor, Alejandro Gomis y Celia Pérez, además de mí.<br>"+
 		"Además de ello, con Celia Pérez llevé a cabo varios trabajos como dupla bajo el nombre de Dr.Coy&Mr.Art.<br>"+
 		"También he tenido la suerte de trabajar en alguna que otra campaña creativa últimamente con Almudena Bueno bajo el nombre de dupla Fantástica Catástrofe.",
 		"ISAÏES ANDRÉS<br>"+
