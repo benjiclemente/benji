@@ -1,0 +1,17 @@
+body{
+	
+}
+p{
+	
+}
+#content{
+	margin: 3em;
+	font-size: 32px;
+}
+#content a{
+	font-size: 32px;
+	text-decoration: none;
+    color: #555555;
+    font-weight: bold;
+	font-family: helvetica,arial,sans-serif;
+}
